@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\victo\\Documents\\vfx-textures\\VEH Confy Flipbooks",
+  "images": [
+    {
+      "name": "Frame0002.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0002.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0004.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0004.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0006.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0006.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0008.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0008.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0010.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0010.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0012.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0012.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0014.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0014.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0016.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0016.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0018.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0018.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0020.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0020.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0022.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0022.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0024.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0024.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0026.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0026.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0028.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0028.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0030.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0030.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0032.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Electric Spark/Frames/Frame0032.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "ElectricSpark",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\victo\\Documents\\vfx-textures\\VEH Confy Flipbooks",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BottomLeftRule"
+  }
+}
