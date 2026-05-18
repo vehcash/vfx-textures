@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\victo\\Documents\\vfx-textures\\VEH Confy Flipbooks",
+  "images": [
+    {
+      "name": "Frame0001.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0001.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0003.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0003.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0005.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0005.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0007.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0007.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0009.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0009.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0011.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0011.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0013.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0013.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0015.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0015.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0017.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0017.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0019.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0019.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0021.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0021.png",
+      "folder": ""
+    },
+    {
+      "name": "Frame0023.png",
+      "path": "C:/Users/victo/Documents/vfx-textures/VEH Confy Flipbooks/Plasma/FramesEx/Frame0023.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\victo\\Documents\\vfx-textures\\VEH Confy Flipbooks",
+    "width": 768,
+    "height": 768,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BottomLeftRule"
+  }
+}
