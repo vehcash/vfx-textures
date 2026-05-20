@@ -8,5 +8,6 @@ Free textures, shaders and tutorials for VFX effects.
 ## Godot Shaders
 - Materials:
 	- [Flipbook Flare Spatial Shader](godot/shaders/flipbook_flare.md)
+	- [Lenticular Spatial Shader](godot/shaders/lenticular.md)
 - Particles:
 	- [Orbital Particle Shader](godot/shaders/orbital_particles.md)
